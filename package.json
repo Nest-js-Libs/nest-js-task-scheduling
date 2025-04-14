@@ -1,6 +1,6 @@
 {
   "name": "@nest-js/task-scheduling",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "NestJS task scheduling library with Bull and Redis",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
