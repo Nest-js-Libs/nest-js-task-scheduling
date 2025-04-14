@@ -1,4 +1,4 @@
-import { Global, Module } from '@nestjs/common';
+import { Module } from '@nestjs/common';
 import { TaskSchedulingController } from './task-scheduling.controller';
 import { TaskSchedulingService } from './services/task-scheduling.service';
 import { DataSyncProcessor } from './processors/data-sync-processor.example';
